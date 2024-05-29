@@ -3,6 +3,14 @@ All the tools that I use while working as a FE Engineer
 
 ## Terminal
 
-- [fish](https://github.com/fish-shell/fish-shell) command line shell
-- [bandwhich](https://github.com/imsnif/bandwhich) band usage by process name
-- [diskonaut](https://github.com/imsnif/diskonaut) disk usage
+
+### Fish
+
+- [fish](https://github.com/fish-shell/fish-shell) ~ command line shell
+- [fisher](https://github.com/jorgebucaran/fisher) ~ plugin manager for Fish
+- [tide](https://github.com/IlanCosman/tide) ~ prompt manager for Fish
+
+
+### Utils
+- [bandwhich](https://github.com/imsnif/bandwhich) ~ network usage by process name
+- [diskonaut](https://github.com/imsnif/diskonaut) ~ disk usage
