@@ -14,3 +14,8 @@ All the tools that I use while working as a FE Engineer
 ### Utils
 - [bandwhich](https://github.com/imsnif/bandwhich) ~ network usage by process name
 - [diskonaut](https://github.com/imsnif/diskonaut) ~ disk usage
+
+
+## Apps
+
+- [hotlist](https://pqina.nl/hotlist) ~ todo list in the menubar
