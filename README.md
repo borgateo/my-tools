@@ -19,3 +19,12 @@ All the tools that I use while working as a FE Engineer
 ## Apps
 
 - [hotlist](https://pqina.nl/hotlist) ~ todo list in the menubar
+- [rectangle](https://rectangleapp.com/) ~ move/resize windows using keyboard shortcuts
+
+
+## VSCode
+
+### plugins 
+
+- [Supermaven](https://supermaven.com/) ~ Fast Co-pilot
+- [Pretty TypeScript Errors](https://github.com/yoavbls/pretty-ts-errors) ~ better TS errors
