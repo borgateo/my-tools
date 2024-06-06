@@ -9,6 +9,7 @@ All the tools that I use while working as a FE Engineer
 - [fish](https://github.com/fish-shell/fish-shell) ~ command line shell
 - [fisher](https://github.com/jorgebucaran/fisher) ~ plugin manager for Fish
 - [tide](https://github.com/IlanCosman/tide) ~ prompt manager for Fish
+- [nvm](https://github.com/jorgebucaran/nvm.fish) ~ node version manager for Fish
 
 
 ### Utils
