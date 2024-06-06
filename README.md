@@ -36,3 +36,7 @@ All the tools that I use while working as a FE Engineer
 
 - [glance](https://github.com/glanceapp/glance) ~ feeds dashboard
 - [timetagger]*https://github.com/almarklein/timetagger) ~ time tracker
+
+## Browser Plugins
+
+- [refined-github](https://github.com/refined-github/refined-github) ~ improve GH styles
