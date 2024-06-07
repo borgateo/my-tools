@@ -37,7 +37,7 @@ All the tools that I use while working as a FE Engineer
 ## Self-hosted
 
 - [glance](https://github.com/glanceapp/glance) ~ feeds dashboard
-- [timetagger]*https://github.com/almarklein/timetagger) ~ time tracker
+- [timetagger](https://github.com/almarklein/timetagger) ~ time tracker
 
 ## Browser Plugins
 
