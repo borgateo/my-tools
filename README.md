@@ -42,4 +42,4 @@ All the tools that I use while working as a FE Engineer
 ## Browser Plugins
 
 - [refined github](https://github.com/refined-github/refined-github) ~ improve GH styles
-- [open in VScode](https://chromewebstore.google.com/detail/open-in-vscode/pfakkjlkpobjeghlgipljkjmbgcanpji)
+- [open in VScode](https://chromewebstore.google.com/detail/open-in-vscode/pfakkjlkpobjeghlgipljkjmbgcanpji) ~ open in VS Code from GitHub
