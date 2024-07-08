@@ -41,7 +41,13 @@ All the tools that I use while working as a FE Engineer
 - [glance](https://github.com/glanceapp/glance) ~ feeds dashboard
 - [timetagger](https://github.com/almarklein/timetagger) ~ time tracker
 
-## Browser Plugins
+## Browser (Firefox)
+
+### Customization
+
+  - [firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks)
+
+### Plugins
 
 - [refined github](https://github.com/refined-github/refined-github) ~ improve GH styles
 - [open in VScode](https://chromewebstore.google.com/detail/open-in-vscode/pfakkjlkpobjeghlgipljkjmbgcanpji) ~ open in VS Code from GitHub
