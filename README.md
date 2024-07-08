@@ -23,7 +23,7 @@ All the tools that I use while working as a FE Engineer
 - [dato](https://apps.apple.com/br/app/dato/id1470584107) ~ Calendar, timezones and events in the menubar ($)
 - [LuLu](https://github.com/objective-see/LuLu) ~ firewall
 - [maccy](https://github.com/p0deje/Maccy) ~ clipboard manager
-- [reminders-menubar](https://pqina.nl/hotlist](https://github.com/DamascenoRafael/reminders-menubar) ~ system reminders in the menubar
+- [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) ~ system reminders in the menubar
 - [rectangle](https://rectangleapp.com/) ~ move/resize windows using keyboard shortcuts
 
 
