@@ -25,6 +25,7 @@ All the tools that I use while working as a FE Engineer
 - [maccy](https://github.com/p0deje/Maccy) ~ clipboard manager
 - [reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) ~ system reminders in the menubar
 - [rectangle](https://rectangleapp.com/) ~ move/resize windows using keyboard shortcuts
+- [spaces](https://apps.apple.com/us/app/spaced/id1666327168) ~ add space betwnenn menupar icons
 
 
 ## VSCode
