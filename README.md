@@ -35,6 +35,9 @@ All the tools that I use while working as a FE Engineer
 - [Supermaven](https://supermaven.com/) ~ Fast Co-pilot
 - [Pretty TypeScript Errors](https://github.com/yoavbls/pretty-ts-errors) ~ better TS errors
 
+### Theme
+- [ayu](https://github.com/dempfi/ayu) ~ Light Bordered (day) & Mirage Bordered (night)
+
 
 ## Self-hosted
 
