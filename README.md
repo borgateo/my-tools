@@ -16,6 +16,7 @@ All the tools that I use while working as a FE Engineer
 ### Utils
 - [bandwhich](https://github.com/imsnif/bandwhich) ~ network usage by process name
 - [diskonaut](https://github.com/imsnif/diskonaut) ~ disk usage
+- [tree](https://github.com/Old-Man-Programmer/tree) ~ show folder structure as a tree
 
 
 ## Apps
